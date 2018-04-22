@@ -19,7 +19,7 @@ def hello():
     #Get the count of all viewers in the database
     count=models.count(models.Viewer)
     #Return the string of how many users have accessed this page
-    return "Hello #{0}".format(count)
+    return "Hello #{0}\n".format(count)
 
 #On startup, if this is main, this section of code will run
 if __name__ == "__main__":
