@@ -10,6 +10,7 @@ To get this locally, use the following steps:
 2. Clone this repository to your local machine
     Pick a directory you want to work in, then run
     git clone https://github.com/ScottMacWatters/python-flask-sqlalchemy-sample.git
+    cd python-flask-sqlalchemy-sample/
 
 3. Create a Heroku account (free)
     https://signup.heroku.com
